@@ -1,0 +1,39 @@
+body{
+    width: 90%;
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    background:  url(fundo-cinza.jpg) center;
+
+
+font-family: sans-serif ;
+line-height: 1,5
+}
+
+main{
+    padding: 5px 40px;
+    margin-top: 30px;
+    margin-block-end: 30px;
+   border-radius: 30px; 
+background: #03a9f414;
+
+}
+
+.nome-igreja , .texto ,.titulo ,.logo { 
+    text-align: center;
+    margin: 15;
+}
+.Cultos{
+    margin:auto;
+    text-align: center;
+    width: 100%;
+
+}
+ .fotos {
+    text-align: center;
+    margin: 15;
+    
+
+
+
+ }
